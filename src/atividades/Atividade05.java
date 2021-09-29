@@ -39,9 +39,8 @@ public class Atividade05 {
                        System.out.println("Erro, operação inválida");
                        break;        
         }
-        
         System.out.println("O resultado da operação escolhida foi: "+ result);
         
+        
     }
-    
 }
